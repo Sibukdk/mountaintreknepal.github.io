@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mountain Trek Nepal | Trekking in Nepal</title>
+<meta name="description" content="Mountain Trek Nepal offers Everest Base Camp, Annapurna, and Langtang treks with experienced local guides.">
+<meta name="keywords" content="Nepal trekking, Everest Base Camp, Annapurna Trek">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {font-family: Arial; margin:0;}
+nav {background:#1f4f2a; padding:15px; text-align:center;}
+nav a {color:white; margin:0 15px; text-decoration:none; font-weight:bold;}
+header {background:#333; color:white; padding:80px; text-align:center;}
+section {padding:40px;}
+footer {background:#222; color:white; text-align:center; padding:15px;}
+</style>
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="treks.html">Treks</a>
+<a href="gallery.html">Gallery</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<header>
+<h1>Mountain Trek Nepal</h1>
+<p>Your Trusted Himalayan Trekking Company</p>
+</header>
+
+<section>
+<h2>Welcome to Mountain Trek Nepal</h2>
+<p>We organize unforgettable trekking adventures in the Himalayas with professional guides.</p>
+</section>
+
+<footer>
+<p>© 2025 Mountain Trek Nepal</p>
+</footer>
+
+</body>
+</html>
